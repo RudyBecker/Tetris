@@ -1,4 +1,4 @@
-# Foobar
+# Tetris
 
 Tetris is a fun shape fitting game. 
 
